@@ -1,4 +1,4 @@
-## Hello everyone!Welcome to my repository!
+## Hello everyone!Welcome to my Git!
 
 You can find all the projects I've done here.
 
